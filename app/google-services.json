@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386134460291",
+    "project_id": "ali-umair-bhutta",
+    "storage_bucket": "ali-umair-bhutta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386134460291:android:761561fd5c85c1605d58b6",
+        "android_client_info": {
+          "package_name": "com.myapp.myimages3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386134460291-b1oun6oq60h80lafea0d661rp9flv76c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbXm7OX3S9gLQhyeBKnc3UGpewHEU5U4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386134460291-b1oun6oq60h80lafea0d661rp9flv76c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
